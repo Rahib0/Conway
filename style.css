@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(0, 155, 255);
+  color: gold;
+
+}
+
+h1{
+  font-size: 48px;
+  font-family: monospace, Arial, Times;
+}
+
+#link{
+  font-size: 32;
+  color: red;
+}
+
+p{
+  color: red;
+}
+
+#first-p{
+  color: purple;
+  font-size: 19px;
+
+}
+
+#second-p{
+  color: green;
+}
+
+#third-p{
+  color: aquamarine;
+}
+
+li{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.red-font{
+  color:red;
+}
+
+img{
+  margin: auto;
+}
